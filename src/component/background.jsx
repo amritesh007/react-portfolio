@@ -18,7 +18,8 @@ export default class Background extends React.Component {
           <h1>
             Hello, I&apos;m Amritesh Khare 
             <br />
-            Assistant System Engineer - Trainee
+            Full Stack Developer
+            <br/>
             Tata Consultancy Services, Bangalore
           </h1>
           {/* offset can be cahnged in node modules wowjs default file */}
